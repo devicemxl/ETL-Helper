@@ -13,3 +13,22 @@ The last described process is worked by hand and is time consuming as it is a se
 
 Due to data sensitivity and privacy policies, I only have the necessary part of the database structure and some examples, then I extract or infer the metadata I need to make a synthetic information to test the little helper. In this case, to show the work I change the column names to comply with privacy policies.
 
+<code>
+:                 ᕦ(ò_óˇ)                     :
+:                    / !                       :
+</code>
+
+
+<br><br>
+<center>
+
+*machine learning tools are too much for such task*
+
+</center>
+<br>
+
+<img src="https://www.mdpi.com/information/information-11-00421/article_deploy/html/images/information-11-00421-g001.png" alt="Distance Clasifications" style="height: 700px; width:700px;"/>
+<br>
+
+**Disclaimer**
+In this repository evidently des not exist the production sys.
