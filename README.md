@@ -13,22 +13,27 @@ The last described process is worked by hand and is time consuming as it is a se
 
 Due to data sensitivity and privacy policies, I only have the necessary part of the database structure and some examples, then I extract or infer the metadata I need to make a synthetic information to test the little helper. In this case, to show the work I change the column names to comply with privacy policies.
 
-<code>
-:                 ᕦ(ò_óˇ)                     :
-:                    / !                       :
-</code>
+* 221107Daniel_ETL.ipynb:
+    * The first observation, how this work? The most common procedure: Jaccard.
+* 221108Daniel_ETL.ipynb:
+    * How this work? Perform options evaluation.
+* 221114Daniel_ETL.ipynb
+    * The project have a little pause, but a week over the first draft is ready and only need this for now.
+* 230103Daniel_ETL.ipynb
+    * The little helper have a bug: Some times the report have dupplicates and i was working with Dictionaries, then i change for lists to able work with duplicates and save in a new XLS file to not overwrite source file.
 
-
-<br><br>
+<br>
 <center>
 
 *machine learning tools are too much for such task*
 
 </center>
-<br>
-
-<img src="https://www.mdpi.com/information/information-11-00421/article_deploy/html/images/information-11-00421-g001.png" alt="Distance Clasifications" style="height: 700px; width:700px;"/>
-<br>
 
 **Disclaimer**
 In this repository evidently des not exist the production sys.
+
+
+<code>
+:                 ᕦ(ò_óˇ)                     :
+:                    / !                       :
+</code>
