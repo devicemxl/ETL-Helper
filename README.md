@@ -13,7 +13,7 @@ The last described process is worked by hand and is time consuming as it is a se
 
 Due to data sensitivity and privacy policies, I only have the necessary part of the database structure and some examples, then I extract or infer the metadata I need to make a synthetic information to test the little helper. In this case, to show the work I change the column names to comply with privacy policies.
 
-* 221107Daniel_ETL.ipynb:
+* [221107Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/221107Daniel_ETL.ipynb):
     * The first observation, how this work? The most common procedure: Jaccard.
 * 221108Daniel_ETL.ipynb:
     * How this work? Perform options evaluation.
