@@ -15,15 +15,15 @@ Due to data sensitivity and privacy policies, I only have the necessary part of 
 
 * [221107Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/221107Daniel_ETL.ipynb):
     * The first observation, how this work? The most common procedure: Jaccard.
-* 221108Daniel_ETL.ipynb:
+* [221108Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/221108Daniel_ETL.ipynb):
     * How this work? Perform options evaluation.
          * Hamming distance
          * Jaccard distance
          * Votting of the distance in the last part of title vs all title
-* 221114Daniel_ETL.ipynb
+* [221114Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/221114Daniel_ETL.ipynb)
     * The project have a little pause, but a week over the first draft is ready and only need this for now.
-* 230103Daniel_ETL.ipynb
-    * The little helper have a bug: Some times the report have dupplicates and i was working with Dictionaries, then i change for lists to able work with duplicates and save in a new XLS file to not overwrite source file.
+* [230103Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/230103Daniel_ETL.ipynb)
+    * The little helper has a bug: sometimes the report has duplicates and I was working with dictionaries, I changed it to lists so I can work with duplicates and save it to a new XLS file too, so as not to overwrite the source file. The above was overwritten because it was supposed to be a draft but it was used at work.
 
 <br>
 <center>
