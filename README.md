@@ -21,7 +21,7 @@ Due to data sensitivity and privacy policies, I only have the necessary part of 
          * Jaccard distance
          * Votting of the distance in the last part of title vs all title
 * [221114Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/221114Daniel_ETL.ipynb)
-    * The project have a little pause, but a week over the first draft is ready and only need this for now.
+    * The project have a little pause, but the first draft is ready and only need this for now.
 * [230103Daniel_ETL.ipynb](https://github.com/devicemxl/ETL-Helper/blob/raiz/230103Daniel_ETL.ipynb)
     * The little helper has a bug: sometimes the report has duplicates and I was working with dictionaries, I changed it to lists so I can work with duplicates and save it to a new XLS file too, so as not to overwrite the source file. The above was overwritten because it was supposed to be a draft but it was used at work.
 
