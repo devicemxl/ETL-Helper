@@ -1,3 +1,6 @@
+# If enjoy the script and make upgrades, please commit
+# License MIT 2
+# David Ochoa
 def decimalToBinary(n):
     return ''.join(format(ord(i), '08b') for i in n)
 #
